@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ranjith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Mern Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mranjith.2609@gmail.com
 
 <!---
