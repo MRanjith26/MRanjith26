@@ -2,6 +2,7 @@ Hi 👋 My name is Ranjith
 ========================
 
 🌱I'm interested in Frontend , backend and Fullstack Development, DSA , UI UX, and web Development. 
+
 💻Started learning Mern Stack development and fullstack , have a passion for UI and Ux , currently learning backend more.
 
 * 🌍  I'm based in India
